@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{   int a = 60;
+    int b = 70;
+    int c = 80;
+    int d = 90;
+    int e = 100;
+    int x;
+    int y;
+    x = a + b + c + d + e
+    y= a + b + c + d + e / 5
+    printf("sum of %d , %d , %d , %d , %d")
